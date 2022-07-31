@@ -1,3 +1,13 @@
-.textColor{
+.bg-color {
+ background-color: #ede4dc;
+}
+.bg-color-nav {
+ background-color: #ffffff;
+}
+.textColor {
     color: orange;
+}
+
+.backgroundColor {
+    background-color:#E5E5E5;
 }
